@@ -1,0 +1,4 @@
+{"time": "2026-10-31 13:23:49", "kind": "gcash", "amount": 143, "fee": 8, "number": "0915 *** 5555", "ref": "1323 2026 1031"}
+{"time": "2026-10-31 13:25:03", "kind": "exchange", "flow": "bill", "amount": 50, "plan": {"1": 50}}
+{"time": "2026-10-31 13:25:34", "kind": "exchange", "flow": "bill", "amount": 20, "plan": {"1": 20}}
+{"time": "2026-10-31 13:26:14", "kind": "exchange", "flow": "bill", "amount": 100, "plan": {"1": 100}}
